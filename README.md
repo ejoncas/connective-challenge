@@ -8,4 +8,4 @@
 The sql problems were tested on DBFiddle:
 
 * SQL problem 1 https://dbfiddle.uk/?rdbms=postgres_14&fiddle=67a05524420ced2a666fcb014d7719a7
-* SQL problem 2 https://dbfiddle.uk/?rdbms=postgres_14&fiddle=a4ebf2432247e6821dfa970a8e07cb52
+* SQL problem 2 https://dbfiddle.uk/?rdbms=postgres_14&fiddle=ab2b481b25432e51c0b6865d7dc93254
